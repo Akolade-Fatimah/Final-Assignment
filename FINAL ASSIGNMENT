@@ -1,0 +1,123 @@
+{
+ "cells": [
+  {
+   "cell_type": "markdown",
+   "id": "bc3c58f6-defd-4311-a2d2-e13a41764f31",
+   "metadata": {},
+   "source": [
+    "**My Jupyter Notebook on IBM Watson Studio**"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "aa515c3f-08ca-4601-82e9-997cc8a4a311",
+   "metadata": {},
+   "source": [
+    "**AKOLADE-ABDULRASHEED FATIMAH OLAYINKA**"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "16d6d892-0f60-4b7f-a8d6-e2a68a591850",
+   "metadata": {},
+   "source": [
+    "Data Scientist"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "f60f8829-e7f6-43a8-8481-1dbc0e99f6aa",
+   "metadata": {},
+   "source": [
+    "*I am interested in Data Science because i love playing with big data and\n",
+    "also i would love to make meaningful and useful insights from big data in health sector.*"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "1b13054c-27ce-4250-895d-24c536117fd5",
+   "metadata": {},
+   "source": [
+    "**The below code will print '1+1'**"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 2,
+   "id": "e4d2b06e-12da-4461-8ebf-c833d6c538a2",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "1+1\n"
+     ]
+    }
+   ],
+   "source": [
+    "print (\"1+1\")"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "ecd22dc4-9379-470a-8889-f20a1305e213",
+   "metadata": {},
+   "source": [
+    "- Apple\n",
+    "- Ball\n",
+    "- Cat\n",
+    "- Dog"
+   ]
+  },
+  {
+   "attachments": {
+    "cc460d5d-34bd-4ee0-b270-0f1c100fa306.png": {
+     "image/png": "iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAABmJLR0QA/wD/AP+gvaeTAAAFEklEQVR4nO2aXWxTZRjHf2+/aPfZoSvRfSAwIwaYUUlgSkQNJigoZRdi4gUXmnkxvNNovOSOabyDsMgFiTExqGRgIiqXLugQJVmCCRHUwRDXyVZ6yujanvN68W5r92G/0renC+efNKft+5zn/J9/n/d5n3P6ggMHDu5lCLsJlIqLwXBwOsm3ACt87Hw8OhAtxY+rvLQqgwv0eKeTnAC2AFuSKQa+4cUVpfhadgJIEKmayCfAC3PfSbavrPUdlyVk9LITYKgmfFDA/kUDUrw2VBM+WKy/ZVUDhmrCb0g4lttK9m6dOnWkUJ/LRoBztXt3uqT8GvDkMTUlVnfX1OnThfhdFgL8XLd3o2nJQaCxoBMkhiWs7U9Nnb6Yz7TqBTgX2N3iEp4fgbYiT71pWq6upxMnR3IZVX0RdAnPAMUHD/CA22V9mdd/CY4rC0lM57lVPwUW4qeasMw1vnVqoKiYqj8DNMMRwG4CdsMRwG4CdiNfW6kfx4d2gewHWhaMjCJkD/u7zui8fBVkgDzK4uABWpGiX/fVq0AAWnOMldIBFoVqEMBWOALYTcBuOALYTcBulL0PGKrp3iWR/SAXresSerqmBrSu68Wi7BkgsY4uETxAqwDt63qx0DEFbF3Xi8U9XwMcAewmYDccAewmYDfy9wE236/rRgEZYO/9um4UMgWW1bpeLJwaUKkLSSR3RIwrh9mHiz1InhDQOnX3OW4S4pL7Ec66t3PW/QwpvJWiVRkBDNMgveF32sI3QfA5M39uSSAg77KWEdamR3g5/T3XRAuHfG/znfvZSlDTLYAkko7QuPsya3ZMAOD1QV0t+P3gdisr04REAuJxaE/d4PD0+xzzvk6ftxdLL0G9Aowlxwm+cpmWHRMIAU1NUFeXGR8eVsfOTvB6ob4eDAOik/Bm6jMsXPTpJIjGImiYBu5NI3PBNzfPDx4gFlOvbNTXQ3NI/W3dk/qUK0cI6+IImgSQSCLWPzwUjgDql/f71Zgl4a8/4fz5jP3goHrNZoTfD8GV6r2Ajy+dwKeDJ2gSIJY2aOycxN+cUnM+65e/NgKjNyCZzO2jvk5NCwlrfP+yRwdP0FQD4qbBg4/FAVXwshFRSUFnJzQ05PZTWwvRKCDZA3xRdqJoyoCElaCuPQFkUr8UBALqKASby0BrSWjJgLQ0WdGYBsC94AqrVsH165n5DuDzQSgE7avBlbXBJevcpe5FygItAogcu3Ta2tVxbCxTB5JJGB1V561enWWc2Q2krR3QIoAHD9O3PQRCScw0uLI6W9dMkNmBxmIqI8bG5n9vmuooJX/r4Km45kE0vD6PQXTRrq3mW7dI/XoAxs+QSKhqngv/t+3rriojBNbuWx+N9ufcHTaHYLAgs1nkFUAIMSil3FaM00AgQOK+5/GMnyEeV83NLIaHFzc/s1gVmv/5jlpI8La8VNB1hRA/FMMTNO4TvNCPN2jyG9DR1JQRYSkBfD4VfFtWETQMmJwE4I/p+3l0w6vk6RxKg9aNklcP0y0FXwlUe7twSRwcVMdtC/IrkYDxcZASpEX44QOc0sVR6wORdb2cBD6SwHgEjPj88YYGaFzQDBlGVvBwSGfwUIHnAesivHc1hJTw7uQExA3V4QUCsHGTskmlVMG7E1fvARD0dYzxgW5+FdsrPHNX9yHQkc9UWryj+5efRUU3S1/ox9toEp7p7Z8UQj1wlZJR4Bdg4LaHU5vfIpXTkQMHDhyUCf8B/y6IFIk9kywAAAAASUVORK5CYII="
+    }
+   },
+   "cell_type": "markdown",
+   "id": "bc9297ed-eb0e-423d-83d5-dd1455ab41fe",
+   "metadata": {},
+   "source": [
+    "\n",
+    "\n",
+    "\n",
+    "\n",
+    "\n",
+    "\n",
+    "\n",
+    "![icons8-revenue-64.png](attachment:cc460d5d-34bd-4ee0-b270-0f1c100fa306.png)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "eb8b78c7-d97b-43b1-8738-f5410c37f7cd",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python",
+   "language": "python",
+   "name": "conda-env-python-py"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.7.12"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 5
+}
